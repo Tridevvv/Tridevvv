@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tridevvv
 - 👀 I’m interested in data science
-- 🌱 I’m currently learning B.Tech Computer Science core
-- 💞️ I’m looking to collaborate on projects related to python,c,c++,SQL,R.
+- 🌱 I’m currently pursuing Masters in Artificial Intelligence.
+- 💞️ I’m looking to collaborate on projects.
 - 📫 Reach me via email: tridev.prabhuu@gmail.com
 
 <!---
